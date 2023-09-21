@@ -1,0 +1,18 @@
+
+.div1{
+    background-color: aqua;
+
+    margin-top: 100px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.input1{
+    background-color: green;
+}
